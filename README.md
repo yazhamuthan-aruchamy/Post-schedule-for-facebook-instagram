@@ -12,8 +12,9 @@ Schedule - you can schedule the post later using this funcion for both instgram 
 # Restriction
 
 You can upload images till now.
-Only aspect ratio will be used
-Give the time date accoring to the Requirements
+Only aspect ratio will be used for the images
+Supported File (.JPG, .PNG)
+Give only the time, date according to the Requirements
 
 Refer the CSV "BOOK2.csv" to get the idea
 
